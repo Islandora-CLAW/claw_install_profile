@@ -1,4 +1,4 @@
-# Islandora CLAW Drupal Install Profile
+># Islandora CLAW Drupal Install Profile
 
 ### Introduction
 
@@ -64,7 +64,7 @@ on Islandora.ca for more information.
 
 ### License
 
-[GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt)
+[MIT](https://opensource.org/licenses/MIT)
 
 [Islandora Fedora 4 Interest Group]: https://github.com/Islandora/Islandora-Fedora4-Interest-Group
 [Contributors]: http://islandora.ca/resources/contributors
